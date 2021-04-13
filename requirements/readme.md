@@ -5,3 +5,15 @@ This system offers various operations such as account type,cash withdraw,cash de
 Also to access this software one should know the correct username and password,though it offers security check too.
 
 
+# Banking Management System Features and Benefits
+
+-This system is designed for the ease of customers.
+-It offers various functions.
+-This contains security check i.e we need to add a correct username and password.
+-It saves alot of time.
+-Banking system is menu driven.
+-It also specifies the account type.
+-This system is quite easy to use.
+
+
+
