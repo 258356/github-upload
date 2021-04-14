@@ -21,5 +21,27 @@ Also to access this software one should know the correct username and password,t
 ![image](https://user-images.githubusercontent.com/80736939/114659847-efe99680-9d11-11eb-9e23-a6932d1fec73.png)
 
 
+# 4W's and 1'H
+
+## Who
+All the banks providing services for limited amount of transaction at a particular time.
+
+## What
+
+People used to stand in a long queue in banks for small transaction so this system provides ease to all the customers.
+
+## When
+
+The problem began when alot of people used to visit banks and everybody needs to wait for hours to even check their balance.
+
+## Where
+
+This system can be used all over India according to the requirements.
+
+## How
+
+This problem was causing long delays,even minor mistakes and alot of wastage in time.
+
+
 
 
