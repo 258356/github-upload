@@ -15,6 +15,9 @@ Also to access this software one should know the correct username and password,t
 -It also specifies the account type.
 -This system is quite easy to use.
 
+# Flowchart for Better understanding
+
+![Untitled Diagram](https://user-images.githubusercontent.com/80736939/114734675-10414180-9d62-11eb-82bb-5fad1421342e.png)
 
 # SWOT Analysis
 
