@@ -16,4 +16,10 @@ Also to access this software one should know the correct username and password,t
 -This system is quite easy to use.
 
 
+# SWOT Analysis
+
+![image](https://user-images.githubusercontent.com/80736939/114659847-efe99680-9d11-11eb-9e23-a6932d1fec73.png)
+
+
+
 
