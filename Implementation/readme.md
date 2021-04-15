@@ -1,27 +1,27 @@
-#include <stdio.h>
-#include<stdlib.h>
+    #include <stdio.h>
+    #include<stdlib.h>
 
-struct customer
-{
+    struct customer
+     {
     int account_no;
     char name[80];
     int balance;
     char ac_type[80];
-};
-//Prototypings (Top to Down Approach)   // Userdefined function
-int login();
-void accept(struct customer[], int);
-void display(struct customer[], int);
-int search(struct customer[], int, int);
-void deposit(struct customer[], int, int, int);
-void withdraw(struct customer[], int, int, int);
+    };
+    //Prototypings (Top to Down Approach)   // Userdefined function
+    int login();
+    void accept(struct customer[], int);
+    void display(struct customer[], int);
+    int search(struct customer[], int, int);
+    void deposit(struct customer[], int, int, int);
+    void withdraw(struct customer[], int, int, int);
 
-int main()
-{
+    int main()
+    {
     struct customer data[20];
     int n, choice, account_no, amount, index;
 
-    printf("Banking System\n\n");
+     printf("Banking System\n\n");
     int ans  =  login();
     if(ans == -1)
     {
@@ -82,9 +82,9 @@ int main()
     while (choice != 0);
 
     return 0;
-}
-int login()
-{
+    }
+    int login()
+    {
 	char user[]={"Anant"};
 	char pass[]={"258356"};
 	char usr[100],pwd[100];
@@ -99,9 +99,9 @@ int login()
 		return 1;
 	}
 	return(-1);
-}
-void accept(struct customer list[80], int s)
-{
+     }
+    void accept(struct customer list[80], int s)
+    {
     int i;
     for (i = 0; i < s; i++)
     {
@@ -116,10 +116,10 @@ void accept(struct customer list[80], int s)
         gets(list[i].ac_type);
         list[i].balance = 0;
     } 
-}
+    }
 
-void display(struct customer list[80], int s)
-{
+    void display(struct customer list[80], int s)
+    {
     int i;
 
     printf("\n\nA/c No\tName\tA/c Type\tBalance\n");
@@ -127,10 +127,10 @@ void display(struct customer list[80], int s)
     {
         printf("%d\t%s\t%s\t\t%d\n", list[i].account_no, list[i].name,list[i].ac_type,list[i].balance);
     } 
-}
+    }
 
-int search(struct customer list[80], int s, int number)
-{
+    int search(struct customer list[80], int s, int number)
+    {
     int i;
 
     for (i = 0; i < s; i++)
@@ -141,10 +141,10 @@ int search(struct customer list[80], int s, int number)
         } 
     }
     return  - 1;
-}
+    }
 
-void deposit(struct customer list[], int s, int number, int amt)
-{
+    void deposit(struct customer list[], int s, int number, int amt)
+    {
     int i = search(list, s, number);
     if (i ==  - 1)
     {
@@ -154,10 +154,10 @@ void deposit(struct customer list[], int s, int number, int amt)
     {
         list[i].balance += amt;
     }
-}
+    }
 
-void withdraw(struct customer list[], int s, int number, int amt)
-{
+    void withdraw(struct customer list[], int s, int number, int amt)
+    {
     int i = search(list, s, number);
     if (i ==  - 1)
     {
@@ -172,4 +172,4 @@ void withdraw(struct customer list[], int s, int number, int amt)
         list[i].balance -= amt;
         printf("\nBalance  :  %d",list[i].balance);
     }
-}
+    }
