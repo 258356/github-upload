@@ -19,7 +19,7 @@
  * @brief function for updating login details
  * 
  */
-void login_datail_update();
+int login();
 
 /**
  * @brief function for checking login details
@@ -27,7 +27,7 @@ void login_datail_update();
  * @param username variable used to store username
  * @param password variable used to store password
  * @return true 
- * @return false 
+ * @return false
  */
-bool login_admin(char username[15],char password[12]);
+char user[](char usr[100],pwd[100]);
 
