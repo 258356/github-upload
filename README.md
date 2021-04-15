@@ -1,5 +1,4 @@
 
 # SDLC Activity Based Learning
 
-BANK MANAGEMENT SYSTEM, The main aim of this project is to develop software for bank management system. This project is to develop software for bank management system. 
-This project has been developed to carry out the processes easily and quickly, which is not possible with the manuals systemwhich are overcome by this software.  This project is developed using c language and. Hence it provides the complete solution for the current management system.
+Banking Management System" offers customer to do their transactions in few seconds with just a few clicks. This system offers various operations such as account type,cash withdraw,cash deposit and balance enquiry. Also to access this software one should know the correct username and password,though it offers security check too.
