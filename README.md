@@ -5,6 +5,6 @@ Banking Management System offers customer to do their transactions in few second
 
 # BANKING MANAGEMENT SYSTEM
 
-1662 × 2560
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fbookly.ng%2Fproduct%2Fbanking-management%2F&psig=AOvVaw0QUiD-W1uxyIF2AhwqDOhh&ust=1618592314071000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiwz7bcgPACFQAAAAAdAAAAABAK
 
 ## Implemented with SDLC
