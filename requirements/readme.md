@@ -33,6 +33,25 @@ All the banks providing services for limited amount of transaction at a particul
 
 People used to stand in a long queue in banks for small transaction so this system provides ease to all the customers.
 
+
+# Detail requirements
+## High Level Requirements: 
+| ID | Description | Category | Status | 
+| ----- | ----- | ------- | ---------|
+| HLR1 | Banking Management System | Techincal | Development  | 
+
+##  Low level Requirements:
+ 
+| ID | Description | HLR ID | Status (Implemented/Future) |
+| ------ | --------- | ------ | ----- |
+| LLR1 | Login System Admin | HLR1 | TBD-S1 |
+| LLR2 | Banking Management System | HLR2 | TBD-S1 |
+| LLR2 | Withdrawl mechanism | HLR2 | TBD-S1 |
+
+
+
+
+
 ## When
 
 The problem began when alot of people used to visit banks and everybody needs to wait for hours to even check their balance.
