@@ -21,5 +21,21 @@ Folder               | Description
 `2_Design`           | Documents specifying design details
 `3_Implementation`   | All code and documentation
 
+## Contributors List and Summary
+
+SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+-------|---------|----------------|----------------|---------------|-------------|--------------
+`258356` | Anant Gandhi  | Account transactions   | No     | No   |    |  |     
+   
+
+## Challenges Faced and How Was It Overcome
+
+1. Faced durig setting login option which was overcomed by trying different learning methods.
+2. Challenge Faced in test cases.
+
+
+## Learning Resources
+1. [geeksforgeeks](https://www.geeksforgeeks.org/c-programming-language/)
+2. [tutorialspoint](https://www.tutorialspoint.com/cprogramming/index.htm)
 
 
