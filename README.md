@@ -9,4 +9,17 @@ Banking Management System offers customer to do their transactions in few second
 
 ## Implemented with SDLC
 
+## Default Login Credentials
+Username             | Password
+---------------------|------------------------------------------
+anant                | 258356
+
+## Folder Structure
+Folder               | Description
+---------------------|------------------------------------------
+`1_Requirements`     | Documents detailing requirements and research
+`2_Design`           | Documents specifying design details
+`3_Implementation`   | All code and documentation
+
+
 
