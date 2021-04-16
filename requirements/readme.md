@@ -33,6 +33,18 @@ All the banks providing services for limited amount of transaction at a particul
 
 People used to stand in a long queue in banks for small transaction so this system provides ease to all the customers.
 
+## When
+
+The problem began when alot of people used to visit banks and everybody needs to wait for hours to even check their balance.
+
+## Where
+
+This system can be used all over India according to the requirements.
+
+## How
+
+This problem was causing long delays,even minor mistakes and alot of wastage in time.
+
 
 # Detail requirements
 ## High Level Requirements: 
@@ -47,23 +59,5 @@ People used to stand in a long queue in banks for small transaction so this syst
 | LLR1 | Login System Admin | HLR1 | TBD-S1 |
 | LLR2 | Banking Management System | HLR2 | TBD-S1 |
 | LLR2 | Withdrawl mechanism | HLR2 | TBD-S1 |
-
-
-
-
-
-## When
-
-The problem began when alot of people used to visit banks and everybody needs to wait for hours to even check their balance.
-
-## Where
-
-This system can be used all over India according to the requirements.
-
-## How
-
-This problem was causing long delays,even minor mistakes and alot of wastage in time.
-
-
 
 
